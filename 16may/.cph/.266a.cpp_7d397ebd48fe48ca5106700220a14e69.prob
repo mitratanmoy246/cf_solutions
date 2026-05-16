@@ -1,0 +1,1 @@
+{"name":"Local: 266a","url":"f:\\Competitive Programming\\CF Solutions\\16may\\266a.cpp","tests":[{"id":1778898815243,"input":"3\nRRG\n","output":"1\n"},{"id":1778898825452,"input":"5\nRRRRR\n","output":"4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Competitive Programming\\CF Solutions\\16may\\266a.cpp","group":"local","local":true}
