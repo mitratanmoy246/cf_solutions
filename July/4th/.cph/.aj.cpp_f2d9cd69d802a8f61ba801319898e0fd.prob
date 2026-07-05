@@ -1,0 +1,1 @@
+{"name":"Local: aj","url":"f:\\External\\Competitive Programming\\CF Solutions\\July\\4th\\aj.cpp","tests":[{"id":1783180474448,"input":"5\n3 1 4 1 5\n4\n1 5 1\n2 4 3\n1 5 2\n1 3 3\n","output":"2\n0\n0\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\External\\Competitive Programming\\CF Solutions\\July\\4th\\aj.cpp","group":"local","local":true}
