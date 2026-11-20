@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 134 | 25 |
+| 135 | 25 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (15)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (23)
+- [brute force](#brute-force) (24)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (12)
 - [data structures](#data-structures) (10)
@@ -29,8 +29,8 @@
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (49)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (50)
-- [math](#math) (54)
+- [implementation](#implementation) (51)
+- [math](#math) (55)
 - [number theory](#number-theory) (16)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (23)
@@ -101,6 +101,7 @@
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 1005B | [Delete from the Left](https://codeforces.com/contest/1005/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1005/B%20-%20Delete%20from%20the%20Left/solution.cpp) |
+| 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.cpp) |
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
 | 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 2056C | [Palindromic Subsequences](https://codeforces.com/contest/2056/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2056/C%20-%20Palindromic%20Subsequences/solution.cpp) |
@@ -317,6 +318,7 @@
 | 1141A | [Game 23](https://codeforces.com/contest/1141/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1141/A%20-%20Game%2023/solution.cpp) |
 | 1334A | [Level Statistics](https://codeforces.com/contest/1334/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1334/A%20-%20Level%20Statistics/solution.cpp) |
 | 1352D | [Alice, Bob and Candies](https://codeforces.com/contest/1352/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1352/D%20-%20Alice%2C%20Bob%20and%20Candies/solution.cpp) |
+| 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.cpp) |
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
 | 1692E | [Binary Deque](https://codeforces.com/contest/1692/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1692/E%20-%20Binary%20Deque/solution.cpp) |
 | 1703E | [Mirror Grid](https://codeforces.com/contest/1703/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1703/E%20-%20Mirror%20Grid/solution.cpp) |
@@ -361,6 +363,7 @@
 | 1352B | [Same Parity Summands](https://codeforces.com/contest/1352/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1352/B%20-%20Same%20Parity%20Summands/solution.cpp) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
 | 1360D | [Buying Shovels](https://codeforces.com/contest/1360/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1360/D%20-%20Buying%20Shovels/solution.cpp) |
+| 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.cpp) |
 | 1372B | [Omkar and Last Class of Math](https://codeforces.com/contest/1372/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1372/B%20-%20Omkar%20and%20Last%20Class%20of%20Math/solution.cpp) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
 | 1421A | [XORwice](https://codeforces.com/contest/1421/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1421/A%20-%20XORwice/solution.cpp) |
