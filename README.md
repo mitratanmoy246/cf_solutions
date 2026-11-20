@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 135 | 25 |
+| 136 | 25 |
 
 ---
 
@@ -18,8 +18,8 @@
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (24)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (12)
-- [data structures](#data-structures) (10)
+- [constructive algorithms](#constructive-algorithms) (13)
+- [data structures](#data-structures) (11)
 - [dfs and similar](#dfs-and-similar) (4)
 - [dp](#dp) (16)
 - [dsu](#dsu) (1)
@@ -36,7 +36,7 @@
 - [sortings](#sortings) (23)
 - [strings](#strings) (13)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (10)
+- [two pointers](#two-pointers) (11)
 
 ---
 
@@ -127,6 +127,7 @@
 | 478B | [Random Teams](https://codeforces.com/contest/478/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/478/B%20-%20Random%20Teams/solution.cpp) |
 | 766B | [Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/766/B%20-%20Mahmoud%20and%20a%20Triangle/solution.cpp) |
 | 1352B | [Same Parity Summands](https://codeforces.com/contest/1352/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1352/B%20-%20Same%20Parity%20Summands/solution.cpp) |
+| 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.cpp) |
 | 2056C | [Palindromic Subsequences](https://codeforces.com/contest/2056/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2056/C%20-%20Palindromic%20Subsequences/solution.cpp) |
 | 2190A | [Sorting Game](https://codeforces.com/contest/2190/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2190/A%20-%20Sorting%20Game/solution.cpp) |
 | 2257C | [Spying on the Beaver](https://codeforces.com/contest/2257/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2257/C%20-%20Spying%20on%20the%20Beaver/solution.cpp) |
@@ -146,6 +147,7 @@
 | 600B | [Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/600/B%20-%20Queries%20about%20less%20or%20equal%20elements/solution.cpp) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
 | 1538C | [Number of Pairs](https://codeforces.com/contest/1538/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1538/C%20-%20Number%20of%20Pairs/solution.cpp) |
+| 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.cpp) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.cpp) |
 | 2254E | [Chronostasis](https://codeforces.com/contest/2254/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2254/E%20-%20Chronostasis/solution.cpp) |
@@ -483,6 +485,7 @@
 | 1343C | [Alternating Subsequence](https://codeforces.com/contest/1343/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1343/C%20-%20Alternating%20Subsequence/solution.cpp) |
 | 1538C | [Number of Pairs](https://codeforces.com/contest/1538/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1538/C%20-%20Number%20of%20Pairs/solution.cpp) |
 | 1692E | [Binary Deque](https://codeforces.com/contest/1692/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1692/E%20-%20Binary%20Deque/solution.cpp) |
+| 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.cpp) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
 | 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
