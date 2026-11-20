@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 121 | 25 |
+| 133 | 25 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (15)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (21)
+- [brute force](#brute-force) (22)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (12)
 - [data structures](#data-structures) (10)
@@ -27,14 +27,14 @@
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (47)
+- [greedy](#greedy) (49)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (43)
-- [math](#math) (47)
-- [number theory](#number-theory) (14)
+- [implementation](#implementation) (49)
+- [math](#math) (53)
+- [number theory](#number-theory) (16)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (20)
-- [strings](#strings) (11)
+- [sortings](#sortings) (23)
+- [strings](#strings) (13)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (10)
 
@@ -107,6 +107,7 @@
 | 2249A | [Rank Subsequence](https://codeforces.com/contest/2249/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2249/A%20-%20Rank%20Subsequence/solution.cpp) |
 | 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
+| 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
 
 ### combinatorics
 
@@ -218,6 +219,7 @@
 |---|---------|------------|----------|
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
+| 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/230/A%20-%20Dragons/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 | 461A | [Appleman and Toastman](https://codeforces.com/contest/461/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/461/A%20-%20Appleman%20and%20Toastman/solution.cpp) |
@@ -243,6 +245,7 @@
 | 1857C | [Assembly via Minimums](https://codeforces.com/contest/1857/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1857/C%20-%20Assembly%20via%20Minimums/solution.cpp) |
 | 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.cpp) |
+| 2046A | [Swap Columns and Find a Path](https://codeforces.com/contest/2046/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2046/A%20-%20Swap%20Columns%20and%20Find%20a%20Path/solution.cpp) |
 | 2156C | [Maximum GCD on Whiteboard](https://codeforces.com/contest/2156/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2156/C%20-%20Maximum%20GCD%20on%20Whiteboard/solution.cpp) |
 | 2170B | [Addition on a Segment](https://codeforces.com/contest/2170/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2170/B%20-%20Addition%20on%20a%20Segment/solution.cpp) |
 | 2190A | [Sorting Game](https://codeforces.com/contest/2190/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2190/A%20-%20Sorting%20Game/solution.cpp) |
@@ -277,6 +280,7 @@
 |---|---------|------------|----------|
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/116/A%20-%20Tram/solution.cpp) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
@@ -285,6 +289,7 @@
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
+| 268B | [Buttons](https://codeforces.com/contest/268/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/268/B%20-%20Buttons/solution.cpp) |
 | 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/279/B%20-%20Books/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
@@ -307,6 +312,8 @@
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 918B | [Radio Station](https://codeforces.com/contest/918/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/918/B%20-%20Radio%20Station/solution.cpp) |
 | 1005B | [Delete from the Left](https://codeforces.com/contest/1005/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1005/B%20-%20Delete%20from%20the%20Left/solution.cpp) |
+| 1141A | [Game 23](https://codeforces.com/contest/1141/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1141/A%20-%20Game%2023/solution.cpp) |
+| 1334A | [Level Statistics](https://codeforces.com/contest/1334/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1334/A%20-%20Level%20Statistics/solution.cpp) |
 | 1352D | [Alice, Bob and Candies](https://codeforces.com/contest/1352/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1352/D%20-%20Alice%2C%20Bob%20and%20Candies/solution.cpp) |
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
 | 1692E | [Binary Deque](https://codeforces.com/contest/1692/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1692/E%20-%20Binary%20Deque/solution.cpp) |
@@ -315,9 +322,11 @@
 | 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 1926C | [Vlad and a Sum of Sum of Digits](https://codeforces.com/contest/1926/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1926/C%20-%20Vlad%20and%20a%20Sum%20of%20Sum%20of%20Digits/solution.cpp) |
 | 2249A | [Rank Subsequence](https://codeforces.com/contest/2249/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2249/A%20-%20Rank%20Subsequence/solution.cpp) |
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
+| 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
 
 ### math
 
@@ -331,7 +340,9 @@
 | 165C | [Another Problem on Strings](https://codeforces.com/contest/165/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/165/C%20-%20Another%20Problem%20on%20Strings/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
+| 268B | [Buttons](https://codeforces.com/contest/268/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/268/B%20-%20Buttons/solution.cpp) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
+| 327B | [Hungry Sequence](https://codeforces.com/contest/327/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/327/B%20-%20Hungry%20Sequence/solution.cpp) |
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
 | 478B | [Random Teams](https://codeforces.com/contest/478/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/478/B%20-%20Random%20Teams/solution.cpp) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
@@ -340,14 +351,17 @@
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 766B | [Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/766/B%20-%20Mahmoud%20and%20a%20Triangle/solution.cpp) |
 | 1051B | [Relatively Prime Pairs](https://codeforces.com/contest/1051/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1051/B%20-%20Relatively%20Prime%20Pairs/solution.cpp) |
+| 1141A | [Game 23](https://codeforces.com/contest/1141/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1141/A%20-%20Game%2023/solution.cpp) |
 | 1201C | [Maximum Median](https://codeforces.com/contest/1201/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1201/C%20-%20Maximum%20Median/solution.cpp) |
 | 1294C | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1294/C%20-%20Product%20of%20Three%20Numbers/solution.cpp) |
+| 1334A | [Level Statistics](https://codeforces.com/contest/1334/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1334/A%20-%20Level%20Statistics/solution.cpp) |
 | 1352B | [Same Parity Summands](https://codeforces.com/contest/1352/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1352/B%20-%20Same%20Parity%20Summands/solution.cpp) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
 | 1360D | [Buying Shovels](https://codeforces.com/contest/1360/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1360/D%20-%20Buying%20Shovels/solution.cpp) |
 | 1372B | [Omkar and Last Class of Math](https://codeforces.com/contest/1372/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1372/B%20-%20Omkar%20and%20Last%20Class%20of%20Math/solution.cpp) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
 | 1421A | [XORwice](https://codeforces.com/contest/1421/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1421/A%20-%20XORwice/solution.cpp) |
+| 1487B | [Cat Cycle](https://codeforces.com/contest/1487/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1487/B%20-%20Cat%20Cycle/solution.cpp) |
 | 1514B | [AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1514/B%20-%20AND%200%2C%20Sum%20Big/solution.cpp) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
 | 1526B | [I Hate 1111](https://codeforces.com/contest/1526/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1526/B%20-%20I%20Hate%201111/solution.cpp) |
@@ -356,6 +370,7 @@
 | 1734C | [Removing Smallest Multiples](https://codeforces.com/contest/1734/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1734/C%20-%20Removing%20Smallest%20Multiples/solution.cpp) |
 | 1742E | [Scuza](https://codeforces.com/contest/1742/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1742/E%20-%20Scuza/solution.cpp) |
 | 1872D | [Plus Minus Permutation](https://codeforces.com/contest/1872/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1872/D%20-%20Plus%20Minus%20Permutation/solution.cpp) |
+| 1881D | [Divide and Equalize](https://codeforces.com/contest/1881/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1881/D%20-%20Divide%20and%20Equalize/solution.cpp) |
 | 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.cpp) |
 | 2056C | [Palindromic Subsequences](https://codeforces.com/contest/2056/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2056/C%20-%20Palindromic%20Subsequences/solution.cpp) |
 | 2062C | [Cirno and Operations](https://codeforces.com/contest/2062/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2062/C%20-%20Cirno%20and%20Operations/solution.cpp) |
@@ -384,8 +399,10 @@
 | 1294C | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1294/C%20-%20Product%20of%20Three%20Numbers/solution.cpp) |
 | 1360D | [Buying Shovels](https://codeforces.com/contest/1360/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1360/D%20-%20Buying%20Shovels/solution.cpp) |
 | 1372B | [Omkar and Last Class of Math](https://codeforces.com/contest/1372/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1372/B%20-%20Omkar%20and%20Last%20Class%20of%20Math/solution.cpp) |
+| 1487B | [Cat Cycle](https://codeforces.com/contest/1487/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1487/B%20-%20Cat%20Cycle/solution.cpp) |
 | 1526B | [I Hate 1111](https://codeforces.com/contest/1526/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1526/B%20-%20I%20Hate%201111/solution.cpp) |
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
+| 1881D | [Divide and Equalize](https://codeforces.com/contest/1881/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1881/D%20-%20Divide%20and%20Equalize/solution.cpp) |
 | 2156C | [Maximum GCD on Whiteboard](https://codeforces.com/contest/2156/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2156/C%20-%20Maximum%20GCD%20on%20Whiteboard/solution.cpp) |
 | 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
 | 2267C | [GCD Treasury](https://codeforces.com/contest/2267/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2267/C%20-%20GCD%20Treasury/solution.cpp) |
@@ -400,6 +417,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/230/A%20-%20Dragons/solution.cpp) |
 | 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 | 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.cpp) |
 | 451B | [Sort the Array](https://codeforces.com/contest/451/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/451/B%20-%20Sort%20the%20Array/solution.cpp) |
@@ -413,7 +431,9 @@
 | 1201C | [Maximum Median](https://codeforces.com/contest/1201/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1201/C%20-%20Maximum%20Median/solution.cpp) |
 | 1857C | [Assembly via Minimums](https://codeforces.com/contest/1857/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1857/C%20-%20Assembly%20via%20Minimums/solution.cpp) |
 | 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
+| 2046A | [Swap Columns and Find a Path](https://codeforces.com/contest/2046/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2046/A%20-%20Swap%20Columns%20and%20Find%20a%20Path/solution.cpp) |
 | 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.cpp) |
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.cpp) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
 | 2264C | [Madamant's Skating Dynasty](https://codeforces.com/contest/2264/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/2264/C%20-%20Madamant's%20Skating%20Dynasty/solution.cpp) |
@@ -425,8 +445,10 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 43A | [Football](https://codeforces.com/contest/43/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/43/A%20-%20Football/solution.cpp) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
 | 165C | [Another Problem on Strings](https://codeforces.com/contest/165/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/165/C%20-%20Another%20Problem%20on%20Strings/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
