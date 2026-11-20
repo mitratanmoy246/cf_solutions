@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 133 | 25 |
+| 134 | 25 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (15)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (22)
+- [brute force](#brute-force) (23)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (12)
 - [data structures](#data-structures) (10)
@@ -29,8 +29,8 @@
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (49)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (49)
-- [math](#math) (53)
+- [implementation](#implementation) (50)
+- [math](#math) (54)
 - [number theory](#number-theory) (16)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (23)
@@ -99,6 +99,7 @@
 | 371C | [Hamburgers](https://codeforces.com/contest/371/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/371/C%20-%20Hamburgers/solution.cpp) |
 | 466C | [Number of Ways](https://codeforces.com/contest/466/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/466/C%20-%20Number%20of%20Ways/solution.cpp) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 1005B | [Delete from the Left](https://codeforces.com/contest/1005/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1005/B%20-%20Delete%20from%20the%20Left/solution.cpp) |
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
 | 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
@@ -308,6 +309,7 @@
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 918B | [Radio Station](https://codeforces.com/contest/918/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/918/B%20-%20Radio%20Station/solution.cpp) |
@@ -348,6 +350,7 @@
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 766B | [Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/766/B%20-%20Mahmoud%20and%20a%20Triangle/solution.cpp) |
 | 1051B | [Relatively Prime Pairs](https://codeforces.com/contest/1051/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mitratanmoy246/cf_solutions/blob/HEAD/1051/B%20-%20Relatively%20Prime%20Pairs/solution.cpp) |
